@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👩‍💻 Hi, I'm Letícia
 
-<!--
-**leticiamoraeszy/leticiamoraeszy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Aspiring Back End Developer student passionate about technology, languages, and continuous learning.  
+I'm currently focused on improving my programming skills and building real projects to grow as a developer. I also study languages and love exploring how technology connects people around the world.
+---
+## 🛠️ Tech Stack
+- 💻 Python  
+- 🧠 Programming Logic
+- 
+---
 
-Here are some ideas to get you started:
+## 📚 Currently Learning
+- Back End fundamentals
+- English & French  
+- Problem solving & algorithms  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Goals
+- Get an internship in Backend developemnt 
+- Build real-world projects for my portfolio  
+- Reach an advanced level in English  
+- Become a professional and confident developer  
+
+---
+
+## 📫 Contact
+- Email: leticiasantossmoraes@gmail.com
+- LinkedIn: https://www.linkedin.com/in/let%C3%ADcia-moraes-b0b05a3b5/
+- GitHub: https://github.com/leticiamoraeszy  
