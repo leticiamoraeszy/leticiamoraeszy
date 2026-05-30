@@ -9,7 +9,7 @@
 ╚══════╝╚══════╝   ╚═╝   ╚═╝ ╚═════╝╚═╝╚═╝  ╚═╝
 ```
 
-# Leticia Moraes
+# Letícia Moraes
 ### `@leticiamoraeszy`
 
 > *"If this works, don't touch it."*
@@ -27,10 +27,10 @@
 ```yaml
 name:     "Leticia Moraes"
 location: "Brazil 🇧🇷"
-focus:    ["Backend Development", "Software Engineering"]
-studying: ["Python 🐍", "English", "French"]
+focus:    ["Backend Development"]
+studying: ["Python 🐍"]
 strong:   ["Google Workspace", "Microsoft Office", "Excel"]
-status:   "always learning... 🖤"
+status:   "always learning... "
 ```
 
 ---
@@ -56,7 +56,7 @@ status:   "always learning... 🖤"
 ```
 Google Workspace   ████████████████░░░   82%  ✦
 Microsoft / Excel  ██████████████░░░░░   75%  ✦
-English            ██████████░░░░░░░░░   50%  ✦  improving...
+English            ██████████████░░░   80%  ✦  improving...
 Python 🐍          █████░░░░░░░░░░░░░░   25%  ✦  studying...
 Backend Dev        ████░░░░░░░░░░░░░░░   20%  ✦  exploring...
 French             ████░░░░░░░░░░░░░░░   20%  ✦  starting out...
@@ -69,7 +69,7 @@ French             ████░░░░░░░░░░░░░░░   2
 | Language   | Level        |
 |------------|-------------|
 | 🇧🇷 Portuguese | Native      |
-| 🇺🇸 English    | Intermediate |
+| 🇺🇸 English    | Advanced |
 | 🇫🇷 French     | Beginner    |
 
 ---
@@ -77,11 +77,11 @@ French             ████░░░░░░░░░░░░░░░   2
 ## 🎯 Currently
 
 ```
-◈  studying   →  Python 🐍 (Gustavo Guanabara's course)
+◈  studying   →  Python 🐍 
 ◈  learning   →  English & French 🌍
 ◈  exploring  →  Backend Development & Software Engineering
 ◈  strong at  →  Google Workspace & Microsoft tools
-◈  goal       →  become a backend software engineer 🖤
+◈  goal       →  become a backend developer 🖤
 ```
 
 ---
@@ -90,7 +90,7 @@ French             ████░░░░░░░░░░░░░░░   2
 
 🟢 *open to learning & new opportunities*
 
-*thanks for visiting — if you liked it, leave a* ⭐
+*thanks for visiting*
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=leticiamoraeszy.leticiamoraeszy)
 
