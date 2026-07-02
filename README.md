@@ -1,97 +1,106 @@
-<div align="center">
+<h1 align="center">Hi, I'm Letícia 👋</h1>
+<h3 align="center">Aspiring Backend Developer | Python in Progress | Turning Logic into Code</h3>
 
-```
-██╗     ███████╗████████╗██╗ ██████╗██╗ █████╗
-██║     ██╔════╝╚══██╔══╝██║██╔════╝██║██╔══██╗
-██║     █████╗     ██║   ██║██║     ██║███████║
-██║     ██╔══╝     ██║   ██║██║     ██║██╔══██║
-███████╗███████╗   ██║   ██║╚██████╗██║██║  ██║
-╚══════╝╚══════╝   ╚═╝   ╚═╝ ╚═════╝╚═╝╚═╝  ╚═╝
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Learning+Python+%7C+Building+Backend+Logic;Currently+studying%3A+Functions+%26+Data+Structures;Open+to+Junior+%2F+Trainee+Backend+Roles" alt="Typing SVG" />
+</p>
 
-# Letícia Moraes
-### `@leticiamoraeszy`
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:leticiasantossmoraes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR-INSTAGRAM-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-> *"If this works, don't touch it."*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letícia-moraes-b0b05a3b5/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/leticiamoraeszy)
-![Status](https://img.shields.io/badge/status-open%20to%20opportunities-brightgreen?style=flat-square)
-
-</div>
-
----
-
-## 👤 About
-
-```yaml
-name:     "Leticia Moraes"
-location: "Brazil 🇧🇷"
-focus:    ["Backend Development"]
-studying: ["Python 🐍"]
-strong:   ["Google Workspace", "Microsoft Office", "Excel"]
-status:   "always learning... "
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-## 🛠 Tech & Tools
+### 👩‍💻 About Me
 
-### Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+I'm transitioning into tech with a clear goal: **Backend Development**. I'm currently building my foundation in **Python**, working through core concepts like functions, scope, control flow, and data structures, with an eye toward backend frameworks like FastAPI down the road.
 
-### Productivity & Tools
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+Before this, I built experience in customer service and freelance academic support, where I learned how to communicate clearly, manage deadlines, and solve problems for real people, skills I now bring into how I approach learning to code.
 
-### Exploring
-![Backend](https://img.shields.io/badge/Backend_Dev-000000?style=flat-square&logo=serverless&logoColor=white)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-6E40C9?style=flat-square&logo=githubactions&logoColor=white)
+- 🔭 Currently learning **Python fundamentals** (functions, control flow, OOP basics)
+- 🌱 Next up: **Git/GitHub workflows, SQL, and FastAPI**
+- 🗣️ Fluent in **English (B2)** — comfortable working and communicating in international/remote teams
+- 🎯 Goal: land a **Junior/Trainee Backend Developer** role (Python)
+- 📫 Open to remote opportunities and collaboration
 
 ---
 
-## 📊 Skills in Progress
+### 🛠️ Technologies & Tools
 
-```
-Google Workspace   ████████████████░░░   82%  ✦
-Microsoft / Excel  ██████████████░░░░░   75%  ✦
-English            ██████████████░░░   80%  ✦  improving...
-Python 🐍          █████░░░░░░░░░░░░░░   25%  ✦  studying...
-Backend Dev        ████░░░░░░░░░░░░░░░   20%  ✦  exploring...
-French             ████░░░░░░░░░░░░░░░   20%  ✦  starting out...
-```
+**Currently using**
 
----
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+</p>
 
-## 🌍 Languages
+**Studying / coming up next**
 
-| Language   | Level        |
-|------------|-------------|
-| 🇧🇷 Portuguese | Native      |
-| 🇺🇸 English    | Advanced |
-| 🇫🇷 French     | Beginner    |
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
----
-
-## 🎯 Currently
-
-```
-◈  studying   →  Python 🐍 
-◈  learning   →  English & French 🌍
-◈  exploring  →  Backend Development & Software Engineering
-◈  strong at  →  Google Workspace & Microsoft tools
-◈  goal       →  become a backend developer 🖤
-```
+> 💡 *This section will grow as I progress, I keep it updated to reflect where I actually am, not where I want to look like I am.*
 
 ---
 
-<div align="center">
+### 🌐 Languages
 
-🟢 *open to learning & new opportunities*
+<p>
+  <img src="https://img.shields.io/badge/Portuguese-Native-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/English-B2%20%7C%20Advanced-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/French-A1%20%7C%20Beginner-2E9EF7?style=flat-square" />
+</p>
 
-*thanks for visiting*
+---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=leticiamoraeszy.leticiamoraeszy)
+### 🚀 Featured Projects
 
-</div>
+| Project | Description | Tech Stack | Status |
+|---|---|---|---|
+| _Coming soon_ | First hands-on project applying Python fundamentals | `Python` | 🔜 Planned |
+| _Coming soon_ | Small backend project (API basics) | `Python`, `FastAPI` | 🔜 Planned |
+
+> 📌 This table is intentionally structured now so each project slots in as it's finished, first project expected soon.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:leticiasantossmoraes@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>Thanks for stopping by — this profile is a work in progress, just like my code. 🐍</i></p>
