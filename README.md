@@ -66,13 +66,4 @@ Before this, I built experience in customer service and freelance academic suppo
 
 ### 📫 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:leticiasantossmoraes@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <p align="center"><i>Thanks for stopping by — this profile is a work in progress, just like my code. 🐍</i></p>
