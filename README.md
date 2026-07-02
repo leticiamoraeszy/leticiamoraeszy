@@ -81,16 +81,6 @@ Before this, I built experience in customer service and freelance academic suppo
 
 > 📌 This table is intentionally structured now so each project slots in as it's finished, first project expected soon.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
----
 
 ### 📫 Let's Connect
 
