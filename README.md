@@ -2,15 +2,7 @@
 <h3 align="center">Aspiring Backend Developer | Python in Progress | Turning Logic into Code</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:leticiasantossmoraes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Learning+Python+%7C+Building+Backend+Logic;Currently+studying%3A+Functions+%26+Data+Structures;Open+to+Junior+%2F+Trainee+Backend+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -77,6 +69,16 @@ Before this, I built experience in customer service and freelance academic suppo
 
 > 📌 This table is intentionally structured now so each project slots in as it's finished, first project expected soon.
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+---
 
 ### 📫 Let's Connect
 
