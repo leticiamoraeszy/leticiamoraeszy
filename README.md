@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Learning+Python+%7C+Building+Backend+Logic;Currently+studying%3A+Functions+%26+Data+Structures;Open+to+Junior+%2F+Trainee+Backend+Roles" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### 👩‍💻 About Me
@@ -67,18 +63,6 @@ Before this, I built experience in customer service and freelance academic suppo
 | _Coming soon_ | First hands-on project applying Python fundamentals | `Python` | 🔜 Planned |
 | _Coming soon_ | Small backend project (API basics) | `Python`, `FastAPI` | 🔜 Planned |
 
-> 📌 This table is intentionally structured now so each project slots in as it's finished, first project expected soon.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
----
 
 ### 📫 Let's Connect
 
