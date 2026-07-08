@@ -1,69 +1,102 @@
-<h1 align="center">Hi, I'm Letícia 👋</h1>
-<h3 align="center">Aspiring Backend Developer | Python in Progress | Turning Logic into Code</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Learning+Python+%7C+Building+Backend+Logic;Currently+studying%3A+Functions+%26+Data+Structures;Open+to+Junior+%2F+Trainee+Backend+Roles" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Letícia%20Moraes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Development%20Student&descAlignY=58&descSize=18" width="100%"/>
 
----
+<a href="https://github.com/leticiamoraeszy">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Backend+Development+Student;Python+%7C+Logic+%26+Algorithms;Learning+English+(B2)+%26+French+(A1);Building+my+path+into+Software+Engineering" alt="Typing SVG" />
+</a>
 
-### 👩‍💻 About Me
+</div>
 
-I'm transitioning into tech with a clear goal: **Backend Development**. I'm currently building my foundation in **Python**, working through core concepts like functions, scope, control flow, and data structures, with an eye toward backend frameworks like FastAPI down the road.
+<br/>
 
-Before this, I built experience in customer service and freelance academic support, where I learned how to communicate clearly, manage deadlines, and solve problems for real people, skills I now bring into how I approach learning to code.
+## ⟶ About Me
 
-- 🔭 Currently learning **Python fundamentals** (functions, control flow, OOP basics)
-- 🌱 Next up: **Git/GitHub workflows, SQL, and FastAPI**
-- 🗣️ Fluent in **English (B2)** — comfortable working and communicating in international/remote teams
-- 🎯 Goal: land a **Junior/Trainee Backend Developer** role (Python)
-- 📫 Open to remote opportunities and collaboration
+- 🎓 Currently studying **Backend Development**, with a primary focus on **Python**
+- 🧠 Strengthening my foundations in **logic, algorithms, and problem-solving**
+- 🌐 Actively improving my language skills — **English (B2)** and **French (A1)**
+- 🔍 Curious about how systems work under the hood — from code to security
+- 🇧🇷 Based in Brazil
 
----
+<br/>
 
-### 🛠️ Technologies & Tools
+## ⟶ Areas of Interest
 
-**Currently using**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Backend%20Development-8A2BE2?style=for-the-badge&logo=server&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-6A0DAD?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Software%20Engineering-9146FF?style=for-the-badge&logo=codeforces&logoColor=white" />
 
-**Studying / coming up next**
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<br/>
 
-> 💡 *This section will grow as I progress, I keep it updated to reflect where I actually am, not where I want to look like I am.*
+## ⟶ Tech Stack
 
----
+**Languages & Frameworks**
 
-### 🌐 Languages
+<div align="left">
 
-<p>
-  <img src="https://img.shields.io/badge/Portuguese-Native-2E9EF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/English-B2%20%7C%20Advanced-2E9EF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/French-A1%20%7C%20Beginner-2E9EF7?style=flat-square" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Logic%20%26%20Algorithms-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white" />
 
----
+</div>
 
-### 🚀 Featured Projects
+**Operating Systems & Tools**
 
-| Project | Description | Tech Stack | Status |
-|---|---|---|---|
-| _Coming soon_ | First hands-on project applying Python fundamentals | `Python` | 🔜 Planned |
-| _Coming soon_ | Small backend project (API basics) | `Python`, `FastAPI` | 🔜 Planned |
+<div align="left">
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
+
+**Productivity & Design**
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+
+</div>
+
+**Core Concepts**
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Hardware%20Fundamentals-8A2BE2?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/Software%20Fundamentals-6A0DAD?style=for-the-badge&logo=codeigniter&logoColor=white" />
+
+</div>
+
+<br/>
+
+## ⟶ Future Outlook — What's Next
+
+My roadmap is focused on building a solid backend foundation before expanding into new languages and frameworks:
+
+```
+1. Master Python  →  deepen OOP, data structures, and backend logic
+2. Learn Django & other backend frameworks  →  build real-world APIs
+3. Learn Java  →  broaden backend versatility
+4. Learn JavaScript  →  bridge into full-stack fundamentals
+5. Learn Frontend basics  →  HTML, CSS & JS essentials
+```
 
 
-### 📫 Let's Connect
 
-<p align="center"><i>Thanks for stopping by — this profile is a work in progress, just like my code. 🐍</i></p>
+</div>
+
+<br/>
+
+<div align="center">
+
+<i>"Consistency beats intensity — one line of code at a time."</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%"/>
+
+</div>
