@@ -8,10 +8,10 @@
 
 ## ⟶ About Me
 
-- 🐍 Currently **learning Python** — building a solid backend foundation
+- 🐍 Currently **learning Python** 
 - 💻 Interested in **Backend Development** and **Cybersecurity**
-- 🔍 Curious about how systems work under the hood — from code to security
-- 🌐 Languages: **English (B2)** & **French (A1)**
+- 🔍 Curious about how systems work under the hood 
+- 🌐 Languages: **English (C1)** & **French (A2)**
 - 🇧🇷 Based in Brazil
 
 ## ⟶ What I Want to Learn Next
@@ -22,7 +22,6 @@
 - ☕ Java
 - ✨ JavaScript
 - 🧱 Data Structures
-- 🧩 Object-Oriented Programming (OOP)
 
 ## ⟶ Tech Stack
 
